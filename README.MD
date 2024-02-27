@@ -1,4 +1,4 @@
-# Design Patterns in Data Structures and Algorithms ✨
+# Design Patterns in DSA ✨
 
 This repository contains implementations of various design patterns commonly used in data structures and algorithms. Each pattern is accompanied by examples and explanations to help you understand their usage and benefits.
 
